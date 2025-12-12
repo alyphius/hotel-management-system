@@ -45,7 +45,7 @@ body {
     box-shadow: 0 20px 40px rgba(0,0,0,0.1);
 }
 
-.table { background: white; border-radius: 15px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.1); }
+.table { background: rgb(226, 230, 5); border-radius: 15px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.1); }
 .table th { background: linear-gradient(45deg, #007bff, #0056b3); color: white; }
 
 .min-vh-100 { min-height: 100vh; }
